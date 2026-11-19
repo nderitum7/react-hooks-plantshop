@@ -12,7 +12,7 @@ function NewPlantForm({ onAddPlant }) {
     const newPlant = {
       name: name,
       image: image,
-      price: Number(price),
+      price:price,
     };
 
     onAddPlant(newPlant);

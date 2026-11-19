@@ -83,6 +83,12 @@
       "name": "",
       "image": "",
       "price": 0
+    },
+    {
+      "id": "ad35",
+      "name": "lily",
+      "image": "https://mynortherngarden.com/wp-content/uploads/2021/04/orange-lily-in-pot.jpg",
+      "price": "10"
     }
   ]
 }
